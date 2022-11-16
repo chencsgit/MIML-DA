@@ -1,0 +1,19 @@
+name: MIML-DA_class
+channels:
+- pytorch
+dependencies:
+- python=3.7
+- pytorch=1.2.0
+- torchvision=0.4.0
+- numpy
+- pip
+- imageio
+- scikit-image
+- tqdm
+- Pillow
+- numpy
+- scipy
+- requests
+- pip:
+  - tensorboardX
+  - subprocess
